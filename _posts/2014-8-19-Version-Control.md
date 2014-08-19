@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Versioning
+published: true
 ---
 
-Just getting rolling here on Github. Great implementation of Jekyll on githib.io.
+![Sweet car dude](/images/_posts/9sc1bNc.jpg)
 
+Just getting rolling here on Github. Great implementation of Jekyll on githib.io.
