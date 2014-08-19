@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-Some information about you!
+Proprietor of MSCGR, home of the best music gear reviews.
 
 ### More Information
 
@@ -11,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[don@mscgr.com](mailto:don@mscgr.com)
